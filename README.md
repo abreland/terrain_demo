@@ -1,5 +1,5 @@
 # Description
-This demo shows terrain based shading based on terrain mesh vertices.
+This demo shows Cesium terrain based shading based on terrain mesh vertices implemented in the React framework.
 
 ## Dev Setup
 
